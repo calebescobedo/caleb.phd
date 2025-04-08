@@ -1,0 +1,23 @@
+body {
+  font-family: Times, serif;
+  line-height: 1.6;
+  max-width: 650px;
+  margin: auto;
+  padding: 2rem;
+  color: #333;
+  background-color: #fdfdfd;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+a {
+  color: #0033cc;
+}
+
+footer {
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #555;
+}
